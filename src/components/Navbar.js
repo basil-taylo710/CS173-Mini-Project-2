@@ -22,7 +22,7 @@ const Navbar = () => {
     <div className="navbar navbar-dark bg-dark fixed-top">
       <div className="container py-2">
         <a href="/" className="navbar-brand">
-          Tezos Lottery
+          Tezos Escrow
         </a>
         <div className="d-flex">
           <button onClick={onConnectWallet} className="btn btn-outline-info">
